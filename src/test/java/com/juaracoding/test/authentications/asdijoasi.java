@@ -1,4 +1,4 @@
 package com.juaracoding.test.authentications;
 
-public class asdijoasi {adsa
+public class asdijoasi {adsahgi
 }
